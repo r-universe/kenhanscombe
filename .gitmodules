@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ukbtools"]
+	path = ukbtools
+	url = https://github.com/kenhanscombe/ukbtools
+	shallow = true
+	registered = true
